@@ -7,6 +7,14 @@
 
 <img width="117" height="250" alt="Simulator Screenshot - iPhone 16e - 2026-03-29 at 02 01 00" src="https://github.com/user-attachments/assets/d47f515f-869b-4177-9c71-f56202ea09b3" />
 
+<img width="117" height="250" alt="Simulator Screenshot - iPhone 16e - 2026-03-29 at 02 03 29" src="https://github.com/user-attachments/assets/2f290bc0-48c3-4042-badd-4a4f4f852cd8" />
+<img width="117" height="250" alt="Simulator Screenshot - iPhone 16e - 2026-03-29 at 02 03 45" src="https://github.com/user-attachments/assets/38a27aeb-9fd7-4ad1-8fb7-b82487639e52" />
+
+<img width="117" height="250" alt="Simulator Screenshot - iPhone 16e - 2026-03-29 at 02 03 53" src="https://github.com/user-attachments/assets/d18fa14f-8137-4bcf-9088-261326af9b56" />
+
+
+
+
 
 Bartr connects people across Kashmir's districts who want to trade skills — not money. A graphic designer in Srinagar trades branding work with a developer in Baramulla. A yoga coach in Pulwama gets her website built in exchange for wellness sessions. A drone photographer in Gulmarg teaches aerial footage in return for digital marketing. No cash changes hands. Skills do.
 
