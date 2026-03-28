@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841289712427",
+    "project_id": "bartr-1fd1b",
+    "storage_bucket": "bartr-1fd1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841289712427:android:4e2cd720c3502cd0517b6e",
+        "android_client_info": {
+          "package_name": "com.tech.cursor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFvvgUna11cpN_LKY6MlnpAv--W6rMeC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
