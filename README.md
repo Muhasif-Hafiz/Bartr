@@ -1,6 +1,8 @@
 # Bartr
 
 **A skill exchange platform built for Kashmir.**
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-03-29 at 02 01 00" src="https://github.com/user-attachments/assets/d47f515f-869b-4177-9c71-f56202ea09b3" />
+
 
 Bartr connects people across Kashmir's districts who want to trade skills — not money. A graphic designer in Srinagar trades branding work with a developer in Baramulla. A yoga coach in Pulwama gets her website built in exchange for wellness sessions. A drone photographer in Gulmarg teaches aerial footage in return for digital marketing. No cash changes hands. Skills do.
 
